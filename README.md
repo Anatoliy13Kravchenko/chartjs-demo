@@ -1,2 +1,2 @@
-# chartjs-demo
+# charts-revenue
 Created with CodeSandbox
